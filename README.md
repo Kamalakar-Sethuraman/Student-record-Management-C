@@ -9,42 +9,29 @@ It demonstrates concepts of **dynamic memory allocation**, **linked list travers
 
 ## 🧠 Features
 
-✅ **Add Student Record**
-- Adds a new student in *sorted order by roll number*.
-- Automatically maintains order using the `add_middle()` function.
+✅ **Add Student Record**  
+- Adds a new student in *sorted order by roll number*.  
+- Automatically maintains order using the `add_middle()` function.  
 
-✅ **Display All Records**
-- Displays all student records in forward order.
+✅ **Display All Records**  
+- Displays all student records in forward order.  
 
-✅ **Delete a Record**
-- Deletes a specific student by roll number (`delete_node()`).
-- Option to delete all records (`delete_all()`), which also updates the file.
+✅ **Delete a Record**  
+- Deletes a specific student by roll number (`delete_node()`).  
+- Option to delete all records (`delete_all()`), which also updates the file.  
 
-✅ **Search**
-- Searches and displays details of a student by roll number.
+✅ **Search**  
+- Searches and displays details of a student by roll number.  
 
-✅ **Update**
-- Updates an existing student’s details (name or marks).
+✅ **Update**  
+- Updates an existing student’s details (name or marks).  
 
-✅ **Reverse Print**
-- Prints the list in reverse order without modifying the links.
+✅ **Reverse Print**  
+- Prints the list in reverse order without modifying the links.  
 
-✅ **File Handling**
+✅ **File Handling**  
 - **`save()`** writes all records to `data.txt`.  
-- **`load()`** loads records automatically at program start.
-- Data persists even after program termination.
-
-## 🧩 **Menu Options**
-========== STUDENT RECORD MANAGEMENT ==========
--Add a student record
--Display all records
--Delete a specific record
--Delete all records
--Reverse print
--Search by roll number
--Update a record
--Save to file
--Exit
-================================================
+- **`load()`** loads records automatically at program start.  
+- Data persists even after program termination.  
 
 ---
