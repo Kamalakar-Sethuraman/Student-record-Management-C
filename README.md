@@ -36,16 +36,16 @@ It demonstrates concepts of **dynamic memory allocation**, **linked list travers
 
 ---
 
-## 🧩 Menu Options
+## 🧩 **Menu Options**
 ========== STUDENT RECORD MANAGEMENT ==========
-1.Add a student record
-2.Display all records
-3.Delete a specific record
-4.Delete all records
-5.Reverse print
-6.Search by roll number
-7.Update a record
-8.Save to file
-9.Exit
+-Add a student record
+-Display all records
+-Delete a specific record
+-Delete all records
+-Reverse print
+-Search by roll number
+-Update a record
+-Save to file
+-Exit
 ================================================
 
