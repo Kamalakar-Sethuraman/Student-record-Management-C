@@ -34,8 +34,6 @@ It demonstrates concepts of **dynamic memory allocation**, **linked list travers
 - **`load()`** loads records automatically at program start.
 - Data persists even after program termination.
 
----
-
 ## 🧩 **Menu Options**
 ========== STUDENT RECORD MANAGEMENT ==========
 -Add a student record
@@ -49,3 +47,4 @@ It demonstrates concepts of **dynamic memory allocation**, **linked list travers
 -Exit
 ================================================
 
+---
