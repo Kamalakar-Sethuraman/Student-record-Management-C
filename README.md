@@ -108,9 +108,8 @@ student.exe
 ---
 
 ## 👨‍💻 Author
-Developed by **SK**  
+Developed by **KMALAKAR.S**  
 Language: C  
-Tested on: GCC, Code::Blocks  
-GitHub Repository: *(Add your repo link here)*
+Tested on: GCC, Code::Blocks*
 
 ---
